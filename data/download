@@ -1,0 +1,3 @@
+echo "# WARNING! This script is deprecated. Please use the script"
+echo "# at https://get.docker.com/"
+exit 1
